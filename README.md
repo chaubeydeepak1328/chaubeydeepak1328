@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m a **MERN Stack Developer** passionate about turning 
 - **🚀 Exploring Next:** Pushing the boundaries of **cloud infrastructure** and **scalable microservices**
 - **💡 Open to Collaboration:** Love teaming up on projects related to **full-stack dev, TypeScript, and cloud solutions**
 - **💬 Ask Me About:** MERN, Next.js, TypeScript, AWS, building for scale & efficiency!
-- **📫 Reach Out:** [Email](mailto:deepakchaubey.dev@gmail.com) | [LinkedIn](https://linkedin.com/in/deepakchaubey) 
+- **📫 Reach Out:** [Email](mailto:chaubeydeepak903@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deepak-chaubey-492787222/) 
 
 ---
 
@@ -56,7 +56,7 @@ Welcome to my GitHub! I’m a **MERN Stack Developer** passionate about turning 
 
 ## 📈 GitHub at a Glance
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakchaubey&show_icons=true&theme=radical)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaubeydeepak1328&show_icons=true&theme=radical)
 
 ---
 
