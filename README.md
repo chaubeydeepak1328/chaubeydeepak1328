@@ -116,9 +116,7 @@ My current focus is on **MERN**, **Next.js**, **React Native (Expo)**, and **Fas
 ---
 
 ## 📈 GitHub Stats
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaubeydeepak1328\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaubeydeepak1328\&layout=compact\&theme=radical)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaubeydeepak1328&show_icons=true&theme=radical)
 
 ---
 
